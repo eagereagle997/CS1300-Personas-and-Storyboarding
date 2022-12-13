@@ -137,7 +137,8 @@
 .aboutMe {
     color: white;
     margin: 25px;  
-    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 32px;
+    font-family:Inter, Arial, Helvetica, sans-serif;
 
     
 }
